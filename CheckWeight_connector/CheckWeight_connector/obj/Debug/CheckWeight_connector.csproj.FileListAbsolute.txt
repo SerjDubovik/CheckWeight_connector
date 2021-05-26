@@ -1,0 +1,18 @@
+D:\Sharp project\CheckWeight_connector\CheckWeight_connector\bin\Debug\CheckWeight_connector.exe.config
+D:\Sharp project\CheckWeight_connector\CheckWeight_connector\bin\Debug\CheckWeight_connector.exe
+D:\Sharp project\CheckWeight_connector\CheckWeight_connector\bin\Debug\CheckWeight_connector.pdb
+D:\Sharp project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.csprojResolveAssemblyReference.cache
+D:\Sharp project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.exe
+D:\Sharp project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.pdb
+D:\Sharp project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.MainForm.resources
+D:\Sharp project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.Property_Form.resources
+D:\Sharp project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.csproj.GenerateResource.Cache
+D:\C sharp project\SharpDevelop_project\CheckWeight_connector\CheckWeight_connector\bin\Debug\CheckWeight_connector.exe.config
+D:\C sharp project\SharpDevelop_project\CheckWeight_connector\CheckWeight_connector\bin\Debug\CheckWeight_connector.exe
+D:\C sharp project\SharpDevelop_project\CheckWeight_connector\CheckWeight_connector\bin\Debug\CheckWeight_connector.pdb
+D:\C sharp project\SharpDevelop_project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.csprojResolveAssemblyReference.cache
+D:\C sharp project\SharpDevelop_project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.MainForm.resources
+D:\C sharp project\SharpDevelop_project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.Property_Form.resources
+D:\C sharp project\SharpDevelop_project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.csproj.GenerateResource.Cache
+D:\C sharp project\SharpDevelop_project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.exe
+D:\C sharp project\SharpDevelop_project\CheckWeight_connector\CheckWeight_connector\obj\Debug\CheckWeight_connector.pdb
